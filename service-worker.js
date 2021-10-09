@@ -14,7 +14,7 @@
 importScripts("https://storage.googleapis.com/workbox-cdn/releases/3.6.3/workbox-sw.js");
 
 importScripts(
-  "/refugee-webiste/precache-manifest.b2f084337512e726b4a456d2395320db.js"
+  "/refugee-webiste/refugee/precache-manifest.d3993f1c0d017a3908d78c46cfe089b2.js"
 );
 
 workbox.clientsClaim();
@@ -28,7 +28,7 @@ self.__precacheManifest = [].concat(self.__precacheManifest || []);
 workbox.precaching.suppressWarnings();
 workbox.precaching.precacheAndRoute(self.__precacheManifest, {});
 
-workbox.routing.registerNavigationRoute("/refugee-webiste/index.html", {
+workbox.routing.registerNavigationRoute("/refugee-webiste/refugee/index.html", {
   
   blacklist: [/^\/_/,/\/[^/]+\.[^/]+$/],
 });
