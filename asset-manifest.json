@@ -1,15 +1,15 @@
 {
-  "main.css": "/refugee-webiste/refugee/static/css/main.013c86fb.chunk.css",
-  "main.js": "/refugee-webiste/refugee/static/js/main.c018276c.chunk.js",
-  "main.js.map": "/refugee-webiste/refugee/static/js/main.c018276c.chunk.js.map",
-  "runtime~main.js": "/refugee-webiste/refugee/static/js/runtime~main.7b196168.js",
-  "runtime~main.js.map": "/refugee-webiste/refugee/static/js/runtime~main.7b196168.js.map",
-  "static/css/2.db86f7ab.chunk.css": "/refugee-webiste/refugee/static/css/2.db86f7ab.chunk.css",
-  "static/js/2.df519a8c.chunk.js": "/refugee-webiste/refugee/static/js/2.df519a8c.chunk.js",
-  "static/js/2.df519a8c.chunk.js.map": "/refugee-webiste/refugee/static/js/2.df519a8c.chunk.js.map",
-  "index.html": "/refugee-webiste/refugee/index.html",
-  "precache-manifest.d3993f1c0d017a3908d78c46cfe089b2.js": "/refugee-webiste/refugee/precache-manifest.d3993f1c0d017a3908d78c46cfe089b2.js",
-  "service-worker.js": "/refugee-webiste/refugee/service-worker.js",
-  "static/css/2.db86f7ab.chunk.css.map": "/refugee-webiste/refugee/static/css/2.db86f7ab.chunk.css.map",
-  "static/css/main.013c86fb.chunk.css.map": "/refugee-webiste/refugee/static/css/main.013c86fb.chunk.css.map"
+  "main.css": "/refugee-webiste/static/css/main.013c86fb.chunk.css",
+  "main.js": "/refugee-webiste/static/js/main.c018276c.chunk.js",
+  "main.js.map": "/refugee-webiste/static/js/main.c018276c.chunk.js.map",
+  "runtime~main.js": "/refugee-webiste/static/js/runtime~main.4daa0e89.js",
+  "runtime~main.js.map": "/refugee-webiste/static/js/runtime~main.4daa0e89.js.map",
+  "static/css/2.db86f7ab.chunk.css": "/refugee-webiste/static/css/2.db86f7ab.chunk.css",
+  "static/js/2.df519a8c.chunk.js": "/refugee-webiste/static/js/2.df519a8c.chunk.js",
+  "static/js/2.df519a8c.chunk.js.map": "/refugee-webiste/static/js/2.df519a8c.chunk.js.map",
+  "index.html": "/refugee-webiste/index.html",
+  "precache-manifest.b2f084337512e726b4a456d2395320db.js": "/refugee-webiste/precache-manifest.b2f084337512e726b4a456d2395320db.js",
+  "service-worker.js": "/refugee-webiste/service-worker.js",
+  "static/css/2.db86f7ab.chunk.css.map": "/refugee-webiste/static/css/2.db86f7ab.chunk.css.map",
+  "static/css/main.013c86fb.chunk.css.map": "/refugee-webiste/static/css/main.013c86fb.chunk.css.map"
 }
